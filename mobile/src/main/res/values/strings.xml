@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weight Lifting Counter</string>
+    <string name="zero">0</string>
+    <string name="pair_robot">Pair with Robot</string>
+</resources>

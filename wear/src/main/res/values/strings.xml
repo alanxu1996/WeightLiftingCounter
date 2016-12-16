@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weight Lifting Counter</string>
+    <string name="reset_counter">Reset Counter</string>
+    <string name="pair">Pair</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
